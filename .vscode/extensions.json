@@ -5,6 +5,9 @@
     "charliermarsh.ruff",
     "catppuccin.catppuccin-vsc",
     "catppuccin.catppuccin-vsc-icons",
-    "usernamehw.errorlens"
+    "usernamehw.errorlens",
+    "github.vscode-pull-request-github",
+    "github.vscode-github-actions",
+    "eamodio.gitlens"
   ]
 }
