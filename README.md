@@ -1,11 +1,11 @@
-# my-projects
+# AI
 
 A monorepo housing multiple independent projects, each in its own folder under `projects/`.
 
 ## Structure
 
 ```
-my-projects/
+AI/
 ├── projects/
 │   └── <project-name>/     # each project is self-contained
 ├── .gitignore
